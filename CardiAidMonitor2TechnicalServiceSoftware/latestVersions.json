@@ -3,18 +3,18 @@
   "description": "Software repository for the CardiAid Monitor 2 Technical Service Software",
   "versions": [
     {
-      "@id": "1.0.1.0",
+      "@id": "2.2.4",
       "releaseDate": "2026-03-12",
-      "description": "Bug fixes and performance improvements.",
+      "description": "New official release version 2.2.4.",
       "downloadLinks": [
-        "https://github.com/hamzaalkatabi/cardiaid-updates/releases/latest/download/CardiAidSetup.exe"
+        "https://github.com/hamzaalkatabi/cardiaid-updates/releases/latest/download/CardiAidMonitor_2_Installer.msi"
       ],
-      "SHA512": "PUT_THE_REAL_SHA512_HERE",
-      "signedHash": "placeholder-signature"
+      "SHA512": "PUT_SHA512_HASH_HERE",
+      "signedHash": "placeholder"
     }
   ],
-  "SHA512": "placeholder-repository-sha512",
+  "SHA512": "placeholder",
   "signedHashes": [
-    "placeholder-repository-signature"
+    "placeholder"
   ]
 }

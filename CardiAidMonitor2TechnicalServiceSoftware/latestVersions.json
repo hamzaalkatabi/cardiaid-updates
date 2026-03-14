@@ -4,7 +4,7 @@
   "versions": [
     {
       "@id": "2.2.4",
-      "releaseDate": "2026-03-12",
+      "releaseDate": "2026-03-13",
       "description": "New official release version 2.2.4",
       "downloadLinks": [
         "https://github.com/hamzaalkatabi/cardiaid-updates/releases/latest/download/CardiAidMonitor_2_Installer.msi"
